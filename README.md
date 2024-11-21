@@ -5,7 +5,7 @@
 
 ## Introduction
 This repository contains the implementation of MMASL on the MM-Office dataset.
-The source code will be made publicly available at a later date. 
+The paper is currently under review, and the source code will be made available upon acceptance.
 For more details, please contact `nguyent[at]cs.is.i.nagoya-u.ac.jp`.
 
 ## Environment
