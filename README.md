@@ -38,10 +38,10 @@ This work was partly supported by Japan Society for the Promotion of Science (JS
 
 If you find this code useful for your research, please cite the following paper:
 ```
-@inproceedings{nguyen2024MMASL,
+@inproceedings{nguyen2025MMASL,
     title={Action Selection Learning for Weakly Labeled Multi-view and Multi-modal Action Recognition},
     author={Trung Thanh Nguyen, Yasutomo Kawanishi, Vijay John, Takahiro Komamizu, Ichiro Ide},
-    year={2024}
+    year={2025}
 }
 ```
 
