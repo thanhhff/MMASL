@@ -1,6 +1,9 @@
-## MMASL: Action Selection Learning for Weakly Labeled Multi-view and Multi-modal Action Recognition
+## MMASL: Action Selection Learning for Weakly Labeled Multi-modal Multi-view Action Recognition
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3744742) (Open Access)
 
 **Authors:** [Trung Thanh Nguyen](https://scholar.google.com/citations?user=QSV452QAAAAJ), [Yasutomo Kawanishi](https://scholar.google.com/citations?user=Tdfw6WMAAAAJ), [Vijay John](https://scholar.google.co.jp/citations?user=Wv71RXYAAAAJ) ,[Takahiro Komamizu](https://scholar.google.com/citations?user=j4n_V44AAAAJ), [Ichiro Ide](https://scholar.google.com/citations?user=8PXJm98AAAAJ)
+
+The article has been accepted for publication in ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM).
 
 
 ## Introduction
