@@ -1,0 +1,8 @@
+outputs
+.vscode
+__pycache__
+wandb
+myenv
+dataset/data
+bash_supercomputer.sh
+scripts_supercomputer
